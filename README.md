@@ -1,8 +1,1 @@
-# sei-project-3
-
-Ineta
-Arjun
-Aya
-Maurice
-
-add more
+## Readme currently in progress... ![0%](https://progress-bar.dev/0)
