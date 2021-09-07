@@ -76,6 +76,7 @@ We decided to spend a few days building the backend all together before we moved
 ## Challenges
 + Figure out relationships required for our application has been pretty challenging. We decided to keep our database pretty simple so our backend isn't too complicated. Here are our initial relationships in our database. 
 ![Screenshot 2021-09-06 at 10 27 46](https://user-images.githubusercontent.com/81913593/132202096-2861655e-d56d-4e9e-b2ae-a3e0e656d764.png)
++ Logic for shopping basket. We have decided to do the logic for the shopping basket all together and we have spent the whole working day together on it. It has proven to be challenging to figure out how to store information about each product in local storage and remove it when the basket has been checked out.
 
 
 ## Wins
