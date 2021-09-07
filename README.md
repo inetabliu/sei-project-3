@@ -60,7 +60,6 @@ Wireframes
 We decided to be spending a few days building the backend all together before we moved to the front-end and split out to built feature by feature. It all ran smoothly as we were taking turns in writting code while there others would figure out the logic for it. It was a great way for each of us to go through the backend together and solidity the knowledge of backend.
 
 ### Front-End
-
 #### Features I worked on
 + Basket modal
 + Homepage 
